@@ -69,3 +69,6 @@ footer {
 	border-image-source: linear-gradient(blue, cyan);
 	border-image-slice: 1%;
 }
+.frist-div p {
+	text-align: justify;
+}
